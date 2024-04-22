@@ -3,7 +3,11 @@ Art Collection Application is a comprehensive tool designed using object-oriente
 
 Key Features
 Art Management: Easily add new artworks to the collection, update existing ones, and remove items when needed.
+
 Exhibition Tracking: Keep track of upcoming, ongoing, and past exhibitions, including details such as dates, locations, and participating artworks.
+
 Customer Database: Maintain a database of customers, including their contact information, preferences, and purchase history.
+
 Search Functionality: Quickly search through the collection, exhibitions, and customer database to find specific items or information.
+
 Print Capability: Generate printable reports and documents, making it easy to share information or create physical records.
